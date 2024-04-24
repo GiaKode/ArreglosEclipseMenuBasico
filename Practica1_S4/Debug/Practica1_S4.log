@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Practica1_S4.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 4\Practica1_S4\Practica1_S4\Practica1_S4.cpp(68,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/Practica1_S4.cpp")
+  
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Practica1_S4.vcxproj -> C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 4\Practica1_S4\Debug\Practica1_S4.exe
